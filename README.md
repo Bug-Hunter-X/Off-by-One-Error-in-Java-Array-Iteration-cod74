@@ -1,0 +1,1 @@
+This repository contains a simple Java program demonstrating a common off-by-one error. The program attempts to access an array element beyond its valid index, causing an ArrayIndexOutOfBoundsException. The solution demonstrates how to correct this error.
